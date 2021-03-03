@@ -22,6 +22,11 @@ Starta android: `npx react-native run android` eller ` npm run android`
 Starta ios: `npx react-native run-ios` eller `npm run ios`
 Starta med egen metro: `npm start`
 
+### Om allt funkar 
+Bör du se något sånt här för Android: 
+![image](https://user-images.githubusercontent.com/31372172/109775262-94e85e00-7c01-11eb-8cba-20cac367ac26.png)
+I ios kommer utseendet att skilja sig lite vilket är i sin ordning.
+
 ### Övningar
 
 1. Ändra texten i Text komponenten till valfri text och lägg på valfri stil i Home.js src/screens/Home
