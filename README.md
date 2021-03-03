@@ -19,7 +19,9 @@ Om du testar även ios så kommer du få fel för det man måste göra är att l
 ### Kommandon
 
 Starta android: `npx react-native run android` eller ` npm run android`
+
 Starta ios: `npx react-native run-ios` eller `npm run ios`
+
 Starta med egen metro: `npm start`
 
 ### Om allt funkar 
