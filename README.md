@@ -24,7 +24,10 @@ Starta med egen metro: `npm start`
 
 ### Om allt funkar 
 Bör du se något sånt här för Android: 
-![image](https://user-images.githubusercontent.com/31372172/109775262-94e85e00-7c01-11eb-8cba-20cac367ac26.png)
+<br/>
+<img src="https://user-images.githubusercontent.com/31372172/109775262-94e85e00-7c01-11eb-8cba-20cac367ac26.png" width="300" height="auto">
+<br />
+
 I ios kommer utseendet att skilja sig lite vilket är i sin ordning.
 
 ### Övningar
