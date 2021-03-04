@@ -9,7 +9,7 @@
 - Man behöver ha satt upp miljön först för att kunna köra projektet. Om du inte redan har gjort det så kan du hitta hur man gör här:
   https://reactnative.dev/docs/environment-setup
   Observera det är olika installationer om man ska köra på Windows eller Mac.
-  Har du Windows kommer du endast kunna köra Android.
+  Har du Windows kommer du endast kunna köra Android. Det är React Native CLI sektionen ni ska följa, inte Expo.
 
 #### React navigation - bibliotek för navigering
 
@@ -18,14 +18,17 @@ Om du testar även ios så kommer du få fel för det man måste göra är att l
 
 ### Kommandon
 
+Först ladda ner alla dependencies: `npm install`
+
 Starta android: `npx react-native run android` eller ` npm run android`
 
 Starta ios: `npx react-native run-ios` eller `npm run ios`
 
 Starta med egen metro: `npm start`
 
-### Om allt funkar 
-Bör du se något sånt här för Android: 
+### Om allt funkar
+
+Bör du se något sånt här för Android:
 <br/>
 <img src="https://user-images.githubusercontent.com/31372172/109775262-94e85e00-7c01-11eb-8cba-20cac367ac26.png" width="300" height="auto">
 <br />
